@@ -51,14 +51,3 @@ In this project, I took the following steps to analyze the ad campaign data and 
 
 1.  **Open in Google Colab:** Click the badge at the top that says "Open In Colab". This will open the project in your web browser, allowing you to run the code without any local setup.
 2.  **Run the code cells:** In Colab, step through the notebook sequentially, executing each code cell by clicking the "Play" button or pressing `Shift + Enter`. The notebook is designed to be run from top to bottom, with each cell building upon the previous ones.
-
-**Required Libraries:**
-
-Before running the notebook, ensure you have the following Python libraries installed.  Google Colab environments typically come pre-installed with these common libraries, but if you are running the notebook locally, you may need to install them using pip:
-
-```bash
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install seaborn
-pip install scikit-learn
